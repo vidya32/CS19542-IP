@@ -1,0 +1,15 @@
+.top{
+    background-image: linear-gradient(to right,black,purple,black);
+    margin-top: 0px;
+    width:100%;
+}
+.top h1,h4{
+    color: aliceblue;
+    text-align:center;
+}
+h3{
+    text-align: right;
+    color: blue;
+}
+
+
