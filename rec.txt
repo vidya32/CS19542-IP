@@ -1,0 +1,2 @@
+Hello, this is a sample content from the rec.txt file.
+This file is being loaded using AJAX in the HTML document.
